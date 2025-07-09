@@ -24,6 +24,7 @@ PromptaOS is built as a modular ecosystem where each component serves a specific
 
 ## Component Interaction Patterns
 
+
 ### 1. Core Processing Pipeline
 ```
 User Input → PShell → LPT → NLKI → System Action → Audit Log
